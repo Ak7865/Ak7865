@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg" alt="iMac - 1" height="90%" width="110%">
+  <img src="https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg" alt="iMac - 1" height="150%" width="90%">
 </p>
 
 <!-- 
