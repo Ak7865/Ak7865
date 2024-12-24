@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg" alt="iMac - 1" width="800">
 </p>
-![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg)
+
 <!-- 
 - 🔭 I’m currently working on web3 dapps
 - 🌱 I’m currently learning Go Lang
