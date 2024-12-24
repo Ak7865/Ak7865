@@ -1,4 +1,4 @@
-
+![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg){ width=600 height=400 }
 ![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg)
 <!-- 
 - 🔭 I’m currently working on web3 dapps
