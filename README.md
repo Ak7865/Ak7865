@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/IMG_20241225_024502.png" alt="iMac - 1"  >
-</p>
+![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/IMG_20241225_024502.png)
 
 <!-- 
 - 🔭 I’m currently working on web3 dapps
