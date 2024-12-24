@@ -1,5 +1,5 @@
 
-![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg)
+![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.jpg&style='height=100vh;weight=100vw')
 <!-- 
 - 🔭 I’m currently working on web3 dapps
 - 🌱 I’m currently learning Go Lang
