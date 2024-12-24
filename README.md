@@ -1,5 +1,5 @@
 
-![iMac - 1](Picsart_24-12-25_01-12-53-456.jpg)
+![iMac - 1](https://github.com/Ak7865/portflio/blob/main/Picsart_24-12-25_01-12-53-456.jpg)
 <!-- 
 - 🔭 I’m currently working on web3 dapps
 - 🌱 I’m currently learning Go Lang
