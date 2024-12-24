@@ -1,5 +1,5 @@
 
-![iMac - 1](https://user-images.githubusercontent.com/39486276/155664296-9ba19922-ad6d-4bcc-8dc3-1e5174a3b60a.png)
+![iMac - 1](Picsart_24-12-25_01-12-53-456.jpg)
 <!-- 
 - 🔭 I’m currently working on web3 dapps
 - 🌱 I’m currently learning Go Lang
