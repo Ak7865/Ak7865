@@ -1,11 +1,5 @@
 ![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/IMG_20241225_024502.png)
 
-<!-- 
-- 🔭 I’m currently working on web3 dapps
-- 🌱 I’m currently learning Go Lang
-- 👯 I’m looking to collaborate on making some WebApps
-
- -->
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-akhter-hussain-026361233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/syed_akhter_hussain?igsh=MTI0emtubG9pM252cg==) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/IamAK78?t=bKIs9e1ZzFr7_hkxrb7siA&s=09) 
@@ -20,4 +14,4 @@
 
 
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak7865" alt="nitishpatel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak7865" alt="Syed Akhter Hussain" /> </p>
