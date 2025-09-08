@@ -13,16 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 LeetCode Performance  
-
-### 📌 Submissions  
-![LeetCode Submissions](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu)  
-
-### 🎯 Contests  
-![LeetCode Contests](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu&ext=contest)  
-
----
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Ak7865&theme=dark&border=no-border)
+### 🎯 Contests & Activity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ak7865?theme=dark&ext=contest" alt="Contests" width="380"/>
+  <img src="https://leetcard.jacoblin.cool/Ak7865?theme=dark&ext=activity" alt="Activity" width="380"/>
+</p>
 
 
 
