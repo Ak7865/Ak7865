@@ -11,7 +11,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ak7865&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu&ext=contest)
+
+## 🏆 LeetCode Performance  
+
+### 📌 Submissions  
+![LeetCode Submissions](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu)  
+
+### 🎯 Contests  
+![LeetCode Contests](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu&ext=contest)  
+
+---
+
+## 🎨 Badges & Extras  
+
+![Problem Solved](https://img.shields.io/badge/Problems%20Solved-120+-brightgreen?style=for-the-badge&logo=leetcode)  
+![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1500+-orange?style=for-the-badge&logo=leetcode)  
+![Rank](https://img.shields.io/badge/Global%20Rank-Top%2010%25-blueviolet?style=for-the-badge&logo=leetcode)  
+
+
 
 
 <hr/>
