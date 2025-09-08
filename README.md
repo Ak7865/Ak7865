@@ -22,11 +22,7 @@
 
 ---
 
-## 🎨 Badges & Extras  
-
-![Problem Solved](https://img.shields.io/badge/Problems%20Solved-120+-brightgreen?style=for-the-badge&logo=leetcode)  
-![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1500+-orange?style=for-the-badge&logo=leetcode)  
-![Rank](https://img.shields.io/badge/Global%20Rank-Top%2010%25-blueviolet?style=for-the-badge&logo=leetcode)  
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Ak7865&theme=dark&border=no-border)
 
 
 
