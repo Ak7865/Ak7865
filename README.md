@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ak7865&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ak7865?theme=dark&font=Ubuntu&ext=contest)
 
 
 <hr/>
