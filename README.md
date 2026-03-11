@@ -1,4 +1,4 @@
-![iMac - 1](src/assets/akhter.jpg)
+![iMac - 1](https://github.com/Ak7865/portflio/blob/main/src/assets/akhter.jpg)
 
 
 ## 🌐Socials
