@@ -1,4 +1,4 @@
-![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/refs/heads/main/IMG_20241225_024502.png)
+![iMac - 1](https://raw.githubusercontent.com/Ak7865/portflio/main/IMG_20241225_024502.png)
 
 
 ## 🌐Socials
