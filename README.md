@@ -17,6 +17,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak7865&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="380"/>
 </p>
 
+#Github Contribution 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="800" height="380"/>
+</p>
+
 ## 🏆 LeetCode Performance  
 ### 🎯 Contests & Activity
 <p align="center">
