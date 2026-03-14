@@ -1,5 +1,13 @@
 ![iMac - 1](https://github.com/Ak7865/portflio/blob/main/src/assets/akhter.jpg)
 
+## 🧑‍🚀 About Me
+
+- 🎓 **B.Tech CSE Student** at Barak Valley Engineering College  
+- 💻 **Full Stack Developer** (React, Next.js, Flutter)  
+- 🚀 **Founder of 8bitbannar** – Web Development Company  
+- 🧠 Exploring **AI/ML and modern web technologies**  
+- 🌍 Building projects that solve real-world problems  
+- ⚡ Always learning and improving
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-akhter-hussain-026361233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/syed_akhter_hussain?igsh=MTI0emtubG9pM252cg==) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/IamAK78?t=bKIs9e1ZzFr7_hkxrb7siA&s=09) 
