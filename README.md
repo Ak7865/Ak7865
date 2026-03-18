@@ -39,6 +39,9 @@
   <img src="https://leetcard.jacoblin.cool/Ak7865?theme=dark&ext=activity" alt="Activity" width="380"/>
 </p>
 
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
