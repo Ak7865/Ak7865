@@ -6,60 +6,39 @@
       fill: #00F7FF;
       white-space: pre;
     }
-
-    .cursor {
-      fill: #00F7FF;
-      animation: blink 1s step-end infinite;
-    }
-
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
   </style>
 
   <rect width="100%" height="100%" fill="black"/>
 
   <text x="20" y="40" class="text">
-    <tspan id="line1"></tspan>
-    <tspan x="20" dy="30" id="line2"></tspan>
-    <tspan x="20" dy="30" id="line3"></tspan>
-    <tspan x="20" dy="30" id="line4"></tspan>
-    <tspan x="20" dy="30" id="line5"></tspan>
-    <tspan x="20" dy="30" id="line6"></tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+      🎓 B.Tech CSE Student at Barak Valley Engineering College
+    </tspan>
+
+    <tspan x="20" dy="30">
+      <animate attributeName="opacity" values="0;1" begin="1s" dur="1s" fill="freeze"/>
+      💻 Full Stack Developer (React, Next.js, Flutter)
+    </tspan>
+
+    <tspan x="20" dy="30">
+      <animate attributeName="opacity" values="0;1" begin="2s" dur="1s" fill="freeze"/>
+      🚀 Founder of 8bitbannar – Web Development Company
+    </tspan>
+
+    <tspan x="20" dy="30">
+      <animate attributeName="opacity" values="0;1" begin="3s" dur="1s" fill="freeze"/>
+      🧠 Exploring AI/ML and modern web technologies
+    </tspan>
+
+    <tspan x="20" dy="30">
+      <animate attributeName="opacity" values="0;1" begin="4s" dur="1s" fill="freeze"/>
+      🌍 Building projects that solve real-world problems
+    </tspan>
+
+    <tspan x="20" dy="30">
+      <animate attributeName="opacity" values="0;1" begin="5s" dur="1s" fill="freeze"/>
+      ⚡ Always learning and improving
+    </tspan>
   </text>
-
-  <rect id="cursor" x="20" y="25" width="10" height="20" class="cursor"/>
-
-  <script><![CDATA[
-    const lines = [
-      "🎓 B.Tech CSE Student at Barak Valley Engineering College",
-      "💻 Full Stack Developer (React, Next.js, Flutter)",
-      "🚀 Founder of 8bitbannar – Web Development Company",
-      "🧠 Exploring AI/ML and modern web technologies",
-      "🌍 Building projects that solve real-world problems",
-      "⚡ Always learning and improving"
-    ];
-
-    let lineIndex = 0;
-    let charIndex = 0;
-
-    function typeLine() {
-      if (lineIndex >= lines.length) return;
-
-      const currentLine = lines[lineIndex];
-      const target = document.getElementById(`line${lineIndex + 1}`);
-
-      if (charIndex < currentLine.length) {
-        target.textContent += currentLine.charAt(charIndex);
-        charIndex++;
-        setTimeout(typeLine, 30);
-      } else {
-        lineIndex++;
-        charIndex = 0;
-        setTimeout(typeLine, 400);
-      }
-    }
-
-    typeLine();
-  ]]></script>
 </svg>
