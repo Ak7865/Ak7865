@@ -1,7 +1,6 @@
 ![iMac - 1](https://github.com/Ak7865/portflio/blob/main/src/assets/akhter.jpg)
 
 ## 🧑‍🚀 About Me
-![Typing](./typing.svg)
 
 - 🎓 **B.Tech CSE Student** at Barak Valley Engineering College  
 - 💻 **Full Stack Developer** (React, Next.js, Flutter)  
