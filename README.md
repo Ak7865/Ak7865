@@ -1,4 +1,4 @@
-![iMac - 1](https://github.com/Ak7865/portflio/blob/main/src/assets/akhter.jpg)
+![iMac - 1](https://github.com/Ak7865/syedakhterhussain.online/blob/main/20260422_203253.jpg)
 
 ## 🧑‍🚀 About Me
 
